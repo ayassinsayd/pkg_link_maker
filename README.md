@@ -1,13 +1,13 @@
 # pkg_link_maker
 package link maker
 
-# Request:
+## Request:
 Python (add path)
 
-# Подготовка:
+## Подготовка:
 * Скопируйте правленный category_game.xml на приставку
 
-# Использование:
+## Использование:
 * Помещаете ваши pkg в директорию
 * Запускаете package_link_maker.py 
 * Копируете package_link.xml на флешку. Флешку в PS3 (любой порт)
