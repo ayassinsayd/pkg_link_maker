@@ -10,10 +10,17 @@ Python (add path)
 ### Prepare with Ps3Xploit:
 * copy category_game.xml to PS3 
     - add file from dir "for copy category_game.xml" to hfs.exe
-    - copy file from dir "to usb" to usb
+    - copy file from dir "to usb" to usb000
     - on PS3 goto local server (ex. 192.168.1.1)
-    - press 1 and 2	  	
-
+	- check USB (in PHOTO/VIDEO)
+    - Run lite version of PETT:
+		- Press "1. Mount...", if OK "Press after 1 and 2" - Flsh1 FAT mount to /dev/blind
+		- After mounting run exploit again and press "2. Copy file" if OK "Press after 1 and 2".
+		- Restart.
+	```
+	You need be careful because size of category_game.xml and right port are critical.
+	Paths and size are written in file.js
+	```
 ### Usage
 * just put *.pkg or pkgs in directory
 * run package_link_maker.py
