@@ -720,8 +720,8 @@
 	 <Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb5" src="host://localhost/q?path=/dev_usb005&suffix=.pkg&subclass=x-host/package" />
 	 <Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb6" src="host://localhost/q?path=/dev_usb006&suffix=.pkg&subclass=x-host/package" />
 	 <Query class="type:x-xmb/xmlpackagefolder" key="host_provider_usb7" src="host://localhost/q?path=/dev_usb007&suffix=.pkg&subclass=x-host/package" />
-	 <Query class="type:x-xmb/folder-pixmap" key="pkg_link0" src="xmb://localhost/dev_usb000/package_link.xml#package_link"/>
-	 <Query class="type:x-xmb/folder-pixmap" key="pkg_link1" src="xmb://localhost/dev_usb001/package_link.xml#package_link"/>
+	 <Query class="type:x-xmb/folder-pixmap" key="pkg_link0" src="xmb://localhost/dev_usb000/package_link.xml#custom_pkg"/>
+	 <Query class="type:x-xmb/folder-pixmap" key="pkg_link1" src="xmb://localhost/dev_usb001/package_link.xml#custom_pkg"/>
 	 </Items>
 	 </View>
 
