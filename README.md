@@ -1,11 +1,11 @@
 # pkg_link_maker
-package link maker
+Package link maker make by [Alex_1985](http://www.pspx.ru/forum/member.php?u=458658) and In1975
 
 ### Request:
 Python (add path)
 
 ### Подготовка:
-* Скопируйте правленный category_game.xml на приставку
+* Скопируйте правленный category_game.xml на PS3
 
 ### Использование:
 * Помещаете ваши pkg в директорию
